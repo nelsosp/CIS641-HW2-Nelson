@@ -16,7 +16,7 @@
 ### [Retro Board Term Project](https://manohargaddam.github.io/GVSU-CIS641-SOPHOS/)
 
 #### [Software Requirements Specifications](https://github.com/manohargaddam/GVSU-CIS641-SOPHOS/blob/main/docs/software_requirements_specification.md)
-####For the perspective use, a retro board will enable Agile teams to confidently and efficiently obtain the ability to follow guidelines and direction of a current project. This retro board will take care of the tasks of what needs to be done, what can be done better or perhaps what is in working progress, and what has already been taken care of. This allows teams to follow a project plan and keep track of how everyone is doing within the timeframes. It will also communicate aspects of a project that may need more time or effort in order to finish a working, usable, and secure project.
+#### For the perspective use, a retro board will enable Agile teams to confidently and efficiently obtain the ability to follow guidelines and direction of a current project. This retro board will take care of the tasks of what needs to be done, what can be done better or perhaps what is in working progress, and what has already been taken care of. This allows teams to follow a project plan and keep track of how everyone is doing within the timeframes. It will also communicate aspects of a project that may need more time or effort in order to finish a working, usable, and secure project.
 - Technology Used:
 - Typescript, Angular, HTML, and CSS for frontend development.
 - Node JS for Backend development

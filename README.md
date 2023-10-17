@@ -1,3 +1,4 @@
+theme: cayman
 # CIS641-HW2-Nelson
 
 ## Spencer Nelson

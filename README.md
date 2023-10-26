@@ -19,6 +19,6 @@
 #### For the perspective use, a retro board will enable Agile teams to confidently and efficiently obtain the ability to follow guidelines and direction of a current project. This retro board will take care of the tasks of what needs to be done, what can be done better or perhaps what is in working progress, and what has already been taken care of. This allows teams to follow a project plan and keep track of how everyone is doing within the timeframes. It will also communicate aspects of a project that may need more time or effort in order to finish a working, usable, and secure project.
 
 #### Technology Used:
-1. Frontend Development: [![My Skills](https://skillicons.dev/icons?i=js,ts,angular,html,css)](https://skillicons.dev)
-2. Backend Development: [![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs)](https://skillicons.dev)
-3. Database Management: [![My Skills](https://skillicons.dev/icons?i=js,mongodb)](https://skillicons.dev)
+1. Frontend Development: [![My Skills](https://skillicons.dev/icons?i=ts,angular,html,css)](https://skillicons.dev)
+2. Backend Development: [![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs)](https://skillicons.dev)
+3. Database Management: [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
